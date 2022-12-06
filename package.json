@@ -1,0 +1,19 @@
+{
+    "name": "js",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "start": "node src/config.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^18.11.11",
+        "adm-zip": "0.5.9",
+        "axios": "^1.2.1",
+        "cheerio": "^1.0.0-rc.12",
+        "got": "^11.0.0"
+    }
+}
